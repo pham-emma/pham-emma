@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pham-emma
 - 👀 I’m interested in ... journalism, politics, graphic design, and reading.
 - 🌱 I’m currently learning ... graphic design.
-- 💞️ I’m looking to collaborate on ... creating a website that is focused on providing youth with education content and resources about modern day issues and topics.
+- 💞️ I’m looking to collaborate on ... creating a website that is focused on providing youth with educational content and resources about modern day issues and topics.
 - 📫 How to reach me ... my email is emmaddpt@gmail.com 
 
 <!---
